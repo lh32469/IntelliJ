@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://java.sun.com/jsf/html" />
+    <ignored-resource url="http://primefaces.org/ui" />
+  </component>
+</application>
