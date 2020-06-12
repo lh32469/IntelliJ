@@ -3,6 +3,7 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="com.google.common.base.Optional" />
     <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util" />
+    <EXCLUDED_PACKAGE NAME="jdk.internal" />
     <EXCLUDED_PACKAGE NAME="jersey.repackaged.com.google.common.base.Optional" />
     <EXCLUDED_PACKAGE NAME="net.sourceforge.htmlunit.corejs.javascript.ast.Yield" />
   </component>
