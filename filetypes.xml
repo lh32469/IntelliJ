@@ -2,12 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
-      <mapping ext="xhtml" type="HTML" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="aws" type="PLAIN_TEXT" />
-      <removed_mapping ext="xhtml" approved="true" type="XHTML" />
-      <removed_mapping ext="xhtml" approved="true" type="XHTML" />
+      <removed_mapping ext="xhtml" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>
