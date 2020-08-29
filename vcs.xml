@@ -1,4 +1,23 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.nike.com/lhar55/gdpr-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.nike.com" />
+          <option name="userName" value="lhar55" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.nike.com:lhar55/gdpr-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
       <list>
