@@ -1,0 +1,14 @@
+<application>
+  <component name="AutoGeneratorSettingsState">
+    <option name="entityPackageName" value="com.nike.net.jpa" />
+    <option name="entityParentDirectory" value="$USER_HOME$/IdeaProjects/events-platform/consumer-notification-api-adapter/src/main/java" />
+    <option name="ignoredFields">
+      <set>
+        <option value="" />
+      </set>
+    </option>
+    <option name="moduleName" value="consumer-notification-api-adapter" />
+    <option name="repositoryPackageName" value="com.nike.net.jpa" />
+    <option name="repositoryParentDirectory" value="$USER_HOME$/IdeaProjects/events-platform/consumer-notification-api-adapter/src/main/java" />
+  </component>
+</application>
