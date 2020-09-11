@@ -1,6 +1,6 @@
 <application>
   <component name="AutoGeneratorSettingsState">
-    <option name="entityPackageName" value="com.nike.net.jpa.entities" />
+    <option name="entityPackageName" value="com.nike.net.gdpr.jpa.entities" />
     <option name="entityParentDirectory" value="$USER_HOME$/IdeaProjects/gdpr-app/src/main/java" />
     <option name="ignoredFields">
       <set>
@@ -8,7 +8,7 @@
       </set>
     </option>
     <option name="moduleName" value="gpdr" />
-    <option name="repositoryPackageName" value="com.nike.net.jpa.repositories" />
+    <option name="repositoryPackageName" value="com.nike.net.gdpr.jpa.repositories" />
     <option name="repositoryParentDirectory" value="$USER_HOME$/IdeaProjects/gdpr-app/src/main/java" />
   </component>
 </application>
