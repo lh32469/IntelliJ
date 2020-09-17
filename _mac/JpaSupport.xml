@@ -10,5 +10,7 @@
     <option name="moduleName" value="gpdr" />
     <option name="repositoryPackageName" value="com.nike.net.gdpr.jpa.repositories" />
     <option name="repositoryParentDirectory" value="$USER_HOME$/IdeaProjects/gdpr-app/src/main/java" />
+    <option name="useFluidProgrammingStyle" value="true" />
+    <option name="useJava8DateType" value="true" />
   </component>
 </application>
