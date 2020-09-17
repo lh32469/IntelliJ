@@ -7,7 +7,7 @@
         <option value="" />
       </set>
     </option>
-    <option name="moduleName" value="gpdr" />
+    <option name="moduleName" value="gdpr" />
     <option name="repositoryPackageName" value="com.nike.net.gdpr.jpa.repositories" />
     <option name="repositoryParentDirectory" value="$USER_HOME$/IdeaProjects/gdpr-app/src/main/java" />
     <option name="useFluidProgrammingStyle" value="true" />
