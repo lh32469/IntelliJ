@@ -1,0 +1,16 @@
+<application>
+  <component name="AutoGeneratorSettingsState">
+    <option name="entityPackageName" value="com.nike.net.gdpr.jpa.entities" />
+    <option name="entityParentDirectory" value="$USER_HOME$/IdeaProjects/gdpr-app/src/main/java" />
+    <option name="ignoredFields">
+      <set>
+        <option value="" />
+      </set>
+    </option>
+    <option name="moduleName" value="gdpr" />
+    <option name="repositoryPackageName" value="com.nike.net.gdpr.jpa.repositories" />
+    <option name="repositoryParentDirectory" value="$USER_HOME$/IdeaProjects/gdpr-app/src/main/java" />
+    <option name="useFluidProgrammingStyle" value="true" />
+    <option name="useJava8DateType" value="true" />
+  </component>
+</application>
