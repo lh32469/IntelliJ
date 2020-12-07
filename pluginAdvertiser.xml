@@ -575,6 +575,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.hcl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.hcl" />
+              <option name="myPluginName" value="HashiCorp Terraform / HCL language support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.hgignore">
           <value>
             <plugin>
@@ -1094,6 +1102,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.nomad">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.hcl" />
+              <option name="myPluginName" value="HashiCorp Terraform / HCL language support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.odt">
           <value>
             <plugin>
@@ -1534,6 +1550,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.hcl" />
+              <option name="myPluginName" value="HashiCorp Terraform / HCL language support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tfvars">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.hcl" />
+              <option name="myPluginName" value="HashiCorp Terraform / HCL language support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tga">
           <value>
             <plugin>
@@ -1888,6 +1920,15 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.idea.eclipse" />
               <option name="myPluginName" value="Eclipse Interoperability" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".editorconfig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.editorconfig.editorconfigjetbrains" />
+              <option name="myPluginName" value="EditorConfig" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -2273,6 +2314,11 @@
                       <FeaturePluginData displayName="Tomcat Server" pluginName="Tomcat and TomEE" pluginId="Tomcat" />
                     </value>
                   </entry>
+                  <entry key="#org.intellij.plugins.hcl.terraform.run.TerraformConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Terraform" pluginName="HashiCorp Terraform / HCL language support" pluginId="org.intellij.plugins.hcl" />
+                    </value>
+                  </entry>
                   <entry key="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" />
@@ -2401,11 +2447,6 @@
                   <entry key="JavaScriptTestRunnerProtractor">
                     <value>
                       <FeaturePluginData displayName="Protractor" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
-                    </value>
-                  </entry>
-                  <entry key="JavaScriptTestRunnerTestCafe">
-                    <value>
-                      <FeaturePluginData displayName="TestCafe" pluginName="TestCafe runner for WebStorm" pluginId="com.lilbaek.webstorm-testcafe" />
                     </value>
                   </entry>
                   <entry key="JavaScriptTraceType">
@@ -2561,11 +2602,6 @@
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
-                    </value>
-                  </entry>
-                  <entry key="idea.plugin.jmeter.run.JmeterConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="JMeter" pluginName="JMeter plugin" pluginId="JMeter plugin" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
