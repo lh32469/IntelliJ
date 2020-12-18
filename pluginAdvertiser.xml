@@ -2449,6 +2449,11 @@
                       <FeaturePluginData displayName="Protractor" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
                     </value>
                   </entry>
+                  <entry key="JavaScriptTestRunnerTestCafe">
+                    <value>
+                      <FeaturePluginData displayName="TestCafe" pluginName="TestCafe runner for WebStorm" pluginId="com.lilbaek.webstorm-testcafe" />
+                    </value>
+                  </entry>
                   <entry key="JavaScriptTraceType">
                     <value>
                       <FeaturePluginData displayName="Spy-js" pluginName="Spy-js" pluginId="spy-js" />
@@ -2602,6 +2607,11 @@
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="idea.plugin.jmeter.run.JmeterConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="JMeter" pluginName="JMeter plugin" pluginId="JMeter plugin" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
