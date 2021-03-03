@@ -1,0 +1,7 @@
+<templateSet group="surround">
+  <template name="TR" value="try { &#10;  $SELECTION$&#10;} catch(Exception ex) {&#10;  LOG.error(ex.toString,ex);&#10;}&#10;" description="Surround with try/catch" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

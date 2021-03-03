@@ -1,0 +1,18 @@
+<application>
+  <component name="AutoGeneratorSettingsState">
+    <option name="entityPackageName" value="com.nike.brand.events.domain.v1" />
+    <option name="entityParentDirectory" value="$USER_HOME$/IdeaProjects/events-platform/events-client/src/main/java" />
+    <option name="generateRepository" value="false" />
+    <option name="ignoredFields">
+      <set>
+        <option value="" />
+      </set>
+    </option>
+    <option name="moduleName" value="consumer-notification-api-adapter" />
+    <option name="repositoryPackageName" value="com.nike.brand.events.domain.v1" />
+    <option name="repositoryParentDirectory" value="$USER_HOME$/IdeaProjects/events-platform/events-client/src/main/java" />
+    <option name="useFluidProgrammingStyle" value="true" />
+    <option name="useJava8DateType" value="true" />
+    <option name="useLombok" value="false" />
+  </component>
+</application>

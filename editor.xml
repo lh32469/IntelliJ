@@ -3,15 +3,15 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="13" />
+    <option name="FONT_SIZE" value="12" />
+    <option name="FONT_FAMILY" value="Monaco" />
   </component>
   <component name="EditorSettings">
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
