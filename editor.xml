@@ -4,6 +4,7 @@
     <EXCLUDED_PACKAGE NAME="com.sun.javafx" />
     <EXCLUDED_PACKAGE NAME="com.sun.tools" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml.txw2" />
     <EXCLUDED_PACKAGE NAME="io.netty" />
     <EXCLUDED_PACKAGE NAME="io.vavr" />
   </component>
