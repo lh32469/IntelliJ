@@ -1,10 +1,17 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.sun.javafx" />
+    <EXCLUDED_PACKAGE NAME="com.sun.tools" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml.internal" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml.txw2" />
+    <EXCLUDED_PACKAGE NAME="io.netty" />
+    <EXCLUDED_PACKAGE NAME="io.vavr" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
     <option name="FONT_FAMILY" value="Monaco" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
