@@ -1,5 +1,5 @@
 <templateSet group="output">
-  <template name="logm" value="LOG.info(&quot;$CLASS_NAME$.$METHOD_NAME$&quot;);" description="Logs current class and method names to loger" toReformat="true" toShortenFQNames="true">
+  <template name="logm" value="log.info(&quot;$CLASS_NAME$.$METHOD_NAME$&quot;);" description="Logs current class and method names to loger" toReformat="true" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <context>
