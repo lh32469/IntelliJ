@@ -13,6 +13,7 @@
         <entry key="class search" value="NOT_PASSED" />
         <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
+        <entry key="codeassistance.localhistory" value="NOT_PASSED" />
         <entry key="codeassistance.parameterinfo" value="NOT_PASSED" />
         <entry key="codeassistance.quickpopups" value="NOT_PASSED" />
         <entry key="collapse" value="NOT_PASSED" />
@@ -57,6 +58,7 @@
         <entry key="java.debug.workflow" value="NOT_PASSED" />
         <entry key="java.inheritance.hierarchy.lesson" value="NOT_PASSED" />
         <entry key="java.occurrences.lesson" value="NOT_PASSED" />
+        <entry key="java.onboarding" value="NOT_PASSED" />
         <entry key="java.refactoring.menu" value="NOT_PASSED" />
         <entry key="java.run.configuration" value="NOT_PASSED" />
         <entry key="method-like function completion" value="NOT_PASSED" />
