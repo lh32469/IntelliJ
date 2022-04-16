@@ -6,6 +6,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="aws" type="PLAIN_TEXT" />
+      <mapping ext="xjb" type="XML" />
+      <mapping ext="wsdd" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="fxml" approved="true" type="XML" />
       <removed_mapping ext="psd" approved="true" type="Image" />

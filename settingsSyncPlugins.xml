@@ -7,12 +7,22 @@
             <PluginData />
           </value>
         </entry>
+        <entry key="com.intellij.jsf">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.intellij.kubernetes">
           <value>
             <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.selenium">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="com.jetbrains.jax.ws">
           <value>
             <PluginData />
           </value>
