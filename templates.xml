@@ -119,50 +119,6 @@
           <option name="key" value="shell_command exists" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="tldTag" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="tldFunction" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="uicomponent" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="jsfconverter" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="navrule" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="refbean" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="renderkit" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="jsfvalidator" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="propertybean" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="mapentriesbean" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="listentriesbean" />
-        </TemplateKey>
-        <TemplateKey>
           <option name="groupName" value="spring" />
           <option name="key" value="sb" />
         </TemplateKey>
@@ -399,68 +355,48 @@
           <option name="key" value="osgisetwithcomparator" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="payloadEndpoint" />
+          <option name="groupName" value="jsf" />
+          <option name="key" value="tldTag" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="payloadMapping" />
+          <option name="groupName" value="jsf" />
+          <option name="key" value="tldFunction" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="mapBasedEndpointMapping" />
+          <option name="groupName" value="jsf" />
+          <option name="key" value="uicomponent" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="annotationEndpointMapping" />
+          <option name="groupName" value="jsf" />
+          <option name="key" value="jsfconverter" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="simpleWsdlDefinition" />
+          <option name="groupName" value="jsf" />
+          <option name="key" value="navrule" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="wsdlDefinitionWithSchema" />
+          <option name="groupName" value="jsf" />
+          <option name="key" value="refbean" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="wsdlDefinitionWithSchemaCollection" />
+          <option name="groupName" value="jsf" />
+          <option name="key" value="renderkit" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="xsdSchema" />
+          <option name="groupName" value="jsf" />
+          <option name="key" value="jsfvalidator" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="commonsXsdSchemaCollection" />
+          <option name="groupName" value="jsf" />
+          <option name="key" value="propertybean" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="messageFactory" />
+          <option name="groupName" value="jsf" />
+          <option name="key" value="mapentriesbean" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="soapMessageDispatcher" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="messageListenerContainer" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="messageListener" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="connectionFactory" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="mailMessageReceiver" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="httpServerFactoryBean" />
+          <option name="groupName" value="jsf" />
+          <option name="key" value="listentriesbean" />
         </TemplateKey>
       </list>
     </option>
