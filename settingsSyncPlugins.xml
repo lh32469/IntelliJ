@@ -2,6 +2,11 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="com.intellij.diagram">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.intellij.gwt">
           <value>
             <PluginData />
