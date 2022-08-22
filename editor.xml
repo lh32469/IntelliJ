@@ -8,9 +8,6 @@
     <EXCLUDED_PACKAGE NAME="io.netty" />
     <EXCLUDED_PACKAGE NAME="io.vavr" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="0" />
-  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
