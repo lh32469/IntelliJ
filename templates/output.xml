@@ -35,7 +35,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="logbl" value="  static final org.blueshift.logger.Logger LOG = org.blueshift.logger.Logger.getLogger($EXPR$.class);&#10;" description="Blueshift Logger for this Class" toReformat="false" toShortenFQNames="true">
+  <template name="logbl" value="  static final org.blueshift.logger.Logger log = org.blueshift.logger.Logger.getLogger($EXPR$.class);&#10;" description="Blueshift Logger for this Class" toReformat="false" toShortenFQNames="true">
     <variable name="EXPR" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
