@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'gcpay-intacct'" />
-    <option name="defaultScopeName" value="Project 'gcpay-intacct'" />
-    <option name="SEARCH_SCOPE" value="Project 'gcpay-intacct'" />
+    <option name="customScope" value="File '…/src/main/java/com/gcpay/io/intacct/client/IntacctClient.java [gcpay-intacct.main]'" />
+    <option name="defaultScopeName" value="File '…/src/main/java/com/gcpay/io/intacct/client/IntacctClient.java [gcpay-intacct.main]'" />
+    <option name="SEARCH_SCOPE" value="File '…/src/main/java/com/gcpay/io/intacct/client/IntacctClient.java [gcpay-intacct.main]'" />
   </component>
 </application>
