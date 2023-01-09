@@ -1,0 +1,16 @@
+<application>
+  <component name="Azure Toolkit for IntelliJ">
+    <option name="properties">
+      <map>
+        <entry key="account.azure_environment" value="Azure" />
+        <entry key="cosmos.documents_batch_size" value="50" />
+        <entry key="cosmos.documents_label_fields" value="name;Name;NAME;ID;UUID;Id;id;uuid" />
+        <entry key="guidance.guidance_shown" value="true" />
+        <entry key="rate.action_total_score" value="0" />
+        <entry key="rate.next_rewind_date" value="1674593133424" />
+        <entry key="telemetry.telemetry_allow_telemetry" value="true" />
+        <entry key="telemetry.telemetry_plugin_version" value="3.72.0-2022.3" />
+      </map>
+    </option>
+  </component>
+</application>

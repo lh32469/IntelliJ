@@ -1,14 +1,27 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
     <driver id="sqlserver.ms">
+      <url-template name="Azure" template="jdbc:sqlserver://{host:ssrp_host:localhost}[\\{instance:ssrp_instance}][:{port:ssrp_port}][/{account:az_sqlserver_server}?][;&lt;;,user[Name]={user:param},password={password:param},database[Name]={database},{:identifier}={:param}&gt;];?" />
       <artifact id="SQL Server" name="SQL Server" use="true" version="9.2.0" />
     </driver>
+    <driver id="azure.ms">
+      <url-template name="Azure" template="jdbc:sqlserver://{host:host_ipv6:server.database.windows.net}[:{port::1433}][/{account:az_sqlserver_server}?][;&lt;;,user[Name]={user:param},password={password:param},database[Name]={database},{:identifier}={:param}&gt;];?" />
+    </driver>
     <driver id="mysql.8">
+      <url-template name="Azure" template="jdbc:mysql://{host::localhost}?[:{port::3306}][/{database}?][/{account:az_mysql_server}?][\?&lt;&amp;,user={user},password={password},{:identifier}={:param}&gt;]" />
       <artifact />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
     </driver>
     <driver id="oracle">
       <artifact id="Oracle" name="Oracle" use="true" version="19.8.0.0" />
+    </driver>
+    <driver id="postgresql">
+      <url-template name="Azure" template="jdbc:postgresql://[{host::localhost}[:{port::5432}]][/{database:database/[^?]+:postgres}?][/{account:az_postgre_server}?][\?&lt;&amp;,user={user:param},password={password:param},{:identifier}={:param}&gt;]" />
+    </driver>
+    <driver id="az_cosmos_mongo" name="Azure Cosmos DB API for MongoDB" dialect="MongoDB" forced-dbms="MONGO" driver-class="com.dbschema.MongoJdbcDriver" icon="icons/Microsoft.DocumentDB/databaseAccounts/mongo.svg">
+      <url-template name="default" template="[jdbc:]mongodb[+srv]://[{user:identifier}[:{password:param}]@]&lt;\,,{host::localhost}?[:{port::27017}]&gt;[/{database}?[/{account:cosmos_account_mongo}?]]/\?ssl=true&amp;replicaSet=globaldb&amp;retrywrites=false&amp;maxIdleTimeMS=120000[\?&lt;&amp;,{:identifier}={:param}&gt;]" />
+      <artifact id="MongoDB" name="MongoDB" use="true" />
+      <property name="appName" value="DataGrip" />
     </driver>
   </component>
 </application>
