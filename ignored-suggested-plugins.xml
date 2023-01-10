@@ -7,6 +7,8 @@
         <option value="com.intellij.bigdatatools" />
         <option value="com.intellij.spring.websocket" />
         <option value="com.microsoft.tooling.msservices.intellij.azure" />
+        <option value="com.intellij.aqua" />
+        <option value="com.intellij.selenium" />
       </list>
     </option>
   </component>
