@@ -9,6 +9,7 @@
         <option value="com.microsoft.tooling.msservices.intellij.azure" />
         <option value="com.intellij.aqua" />
         <option value="com.intellij.selenium" />
+        <option value="com.intellij.gwt" />
       </list>
     </option>
   </component>
