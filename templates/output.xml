@@ -56,4 +56,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="logbi" value="log.info(&quot;$EXPR_COPY$ = %s&quot;, $EXPR$);" description="Logs a value to blues logger at INFO" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
