@@ -4,4 +4,72 @@
       <gwt-sdk url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-dev/2.8.2" />
     </gwt-sdk-list>
   </component>
+  <component name="libraryTable">
+    <library name="groovy-4.0.2" type="groovy-sdk">
+      <properties version="4.0.2" />
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Groovy/groovy-astbuilder-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-datetime-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-cli-picocli-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-cli-commons-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-contracts-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-ant-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-dateutil-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-ginq-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-docgenerator-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-groovydoc-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-jmx-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-console-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-macro-library-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-groovysh-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-jsr223-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-nio-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-json-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-servlet-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-macro-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-test-junit5-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-sql-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-templates-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-test-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-testng-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-toml-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-typecheckers-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-swing-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-xml-4.0.2.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-4.0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/Groovy/groovy-astbuilder-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-ant-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-cli-commons-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-cli-picocli-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-datetime-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-console-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-dateutil-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-contracts-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-docgenerator-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-ginq-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-groovydoc-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-jsr223-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-jmx-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-json-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-groovysh-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-macro-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-macro-library-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-nio-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-test-junit5-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-sql-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-templates-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-servlet-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-swing-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-toml-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-test-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-testng-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-typecheckers-4.0.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/Groovy/groovy-xml-4.0.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
 </application>
