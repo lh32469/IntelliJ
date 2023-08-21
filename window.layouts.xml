@@ -1,0 +1,366 @@
+<application>
+  <component name="ToolWindowLayout"><![CDATA[{
+  "activeLayoutName": "Unpinned",
+  "layouts": {
+    "Custom": {
+      "v1": [
+        {
+          "id": "Space Code Reviews"
+        },
+        {
+          "id": "Pull Requests"
+        },
+        {
+          "id": "Commit"
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "isAutoHide": true,
+          "contentUiType": "COMBO",
+          "weight": 0.2502345
+        },
+        {
+          "id": "Bookmarks",
+          "order": 1,
+          "isSplit": true
+        },
+        {
+          "id": "Structure",
+          "order": 3,
+          "isAutoHide": true
+        },
+        {
+          "id": "Learn",
+          "order": 4
+        },
+        {
+          "id": "Database Changes",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "TypeScript",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "File Transfer",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Dependency Checker",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Find",
+          "order": 1,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "isVisible": true
+        },
+        {
+          "id": "Debug",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "weight": 0.4
+        },
+        {
+          "id": "Build",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "weight": 0.33003443
+        },
+        {
+          "id": "TODO",
+          "order": 5,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Inspection",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Java Enterprise",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Problems View",
+          "order": 9,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Spring",
+          "order": 12,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Terminal",
+          "order": 16,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Endpoints",
+          "order": 20,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 24,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "weight": 0.3305
+        },
+        {
+          "id": "Profiler",
+          "order": 28,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Dependencies",
+          "order": 32,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Run",
+          "order": 34,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "weight": 0.32958072
+        },
+        {
+          "id": "documentation.v2",
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 1,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Gradle",
+          "order": 5,
+          "anchor": "RIGHT"
+        }
+      ],
+      "v2": [
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "weight": 0.25
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "weight": 0.25
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Web Inspector",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        }
+      ]
+    },
+    "Unpinned": {
+      "v2": [
+        {
+          "id": "Project",
+          "order": 0,
+          "isAutoHide": true,
+          "contentUiType": "COMBO",
+          "weight": 0.33028457
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "weight": 0.25
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "weight": 0.3301282
+        },
+        {
+          "id": "Find",
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "weight": 0.32995594
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "weight": 0.33025682
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "weight": 0.33025682
+        },
+        {
+          "id": "Build",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "weight": 0.33087093
+        },
+        {
+          "id": "Run",
+          "order": 6,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "isShowStripeButton": false,
+          "weight": 0.33087093
+        },
+        {
+          "id": "Dependencies",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Debug",
+          "order": 8,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.33025682
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25035715
+        },
+        {
+          "id": "Maven",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Web Inspector",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.33028457,
+        "bottom": 0.32995594,
+        "right": 0.25035715
+      }
+    }
+  }
+}]]></component>
+</application>
