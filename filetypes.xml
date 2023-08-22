@@ -8,6 +8,7 @@
       <mapping ext="aws" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="fxml" approved="true" type="XML" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="xhtml" approved="true" type="HTML" />
     </extensionMap>
