@@ -19,6 +19,7 @@
     <option name="widgets">
       <map>
         <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="aws.codewhisperer" value="false" />
       </map>
     </option>
   </component>
