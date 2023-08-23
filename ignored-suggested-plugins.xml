@@ -10,6 +10,7 @@
         <option value="com.intellij.aqua" />
         <option value="com.intellij.selenium" />
         <option value="com.intellij.gwt" />
+        <option value="com.intellij.bigdatatools.rfs" />
       </list>
     </option>
   </component>
