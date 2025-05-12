@@ -1,0 +1,7 @@
+<application>
+  <component name="TerminalFontOptions">
+    <option name="VERSION" value="1" />
+    <option name="FONT_FAMILY" value="Monaco" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Regular" />
+  </component>
+</application>
