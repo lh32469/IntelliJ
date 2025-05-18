@@ -248,23 +248,29 @@
           "order": 0,
           "isAutoHide": true,
           "contentUiType": "COMBO",
-          "weight": 0.33028457
+          "weight": 0.32999998
         },
         {
           "id": "Commit",
           "order": 1,
-          "weight": 0.25
+          "isAutoHide": true,
+          "weight": 0.32986847
+        },
+        {
+          "id": "aws.toolkit.explorer",
+          "order": 2,
+          "isSplit": true
+        },
+        {
+          "id": "Pull Requests",
+          "order": 3,
+          "weight": 0.33026963
         },
         {
           "id": "Structure",
-          "order": 2,
-          "weight": 0.3301282
-        },
-        {
-          "id": "Find",
-          "anchor": "BOTTOM",
+          "order": 4,
           "isAutoHide": true,
-          "weight": 0.32995594
+          "weight": 0.33026963
         },
         {
           "id": "Version Control",
@@ -280,26 +286,27 @@
           "id": "Problems View",
           "order": 2,
           "anchor": "BOTTOM",
-          "weight": 0.33025682
+          "weight": 0.3300395
         },
         {
           "id": "Terminal",
           "order": 3,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.3298669
         },
         {
           "id": "Services",
           "order": 4,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.33025682
+          "weight": 0.3298669
         },
         {
           "id": "Build",
           "order": 5,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.33087093
+          "weight": 0.3298669
         },
         {
           "id": "Run",
@@ -307,20 +314,33 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "isShowStripeButton": false,
-          "weight": 0.33087093
+          "weight": 0.3300395
+        },
+        {
+          "id": "PackageSearch",
+          "order": 7,
+          "anchor": "BOTTOM"
         },
         {
           "id": "Dependencies",
-          "order": 7,
+          "order": 8,
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
         {
-          "id": "Debug",
-          "order": 8,
+          "id": "Find",
+          "order": 9,
           "anchor": "BOTTOM",
           "isShowStripeButton": false,
-          "weight": 0.33025682
+          "weight": 0.3300395
+        },
+        {
+          "id": "Debug",
+          "order": 10,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "isShowStripeButton": false,
+          "weight": 0.5009515
         },
         {
           "id": "Notifications",
@@ -339,26 +359,43 @@
           "id": "Gradle",
           "order": 2,
           "anchor": "RIGHT",
-          "weight": 0.25035715
+          "weight": 0.25
         },
         {
           "id": "Maven",
           "order": 3,
           "anchor": "RIGHT",
-          "weight": 0.25
+          "isAutoHide": true,
+          "weight": 0.33022386
+        },
+        {
+          "id": "amazon.q.window",
+          "order": 4,
+          "anchor": "RIGHT"
         },
         {
           "id": "Web Inspector",
-          "order": 4,
+          "order": 5,
           "anchor": "RIGHT",
           "weight": 0.25
+        },
+        {
+          "id": "AIAssistant",
+          "order": 6,
+          "anchor": "RIGHT",
+          "weight": 0.33022386
+        },
+        {
+          "id": "ElectroJunToolWindow",
+          "order": 7,
+          "anchor": "RIGHT"
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.33028457,
-        "bottom": 0.32995594,
-        "right": 0.25035715
+        "left": 0.32986847,
+        "bottom": 0.3298669,
+        "right": 0.33022386
       }
     }
   }
