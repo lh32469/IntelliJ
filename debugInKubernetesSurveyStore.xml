@@ -1,0 +1,5 @@
+<application>
+  <component name="DebugInKubernetesSurveyStore">
+    <option name="canShowSurvey" value="true" />
+  </component>
+</application>
